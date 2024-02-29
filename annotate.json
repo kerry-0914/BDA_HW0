@@ -1,0 +1,126 @@
+{
+  "1.mp4": [
+    {
+      "start_frame": "25",
+      "end_frame": "95",
+      "action_type": "swipe",
+      "down_coordinate": [
+        38.3,
+        27.5
+      ],
+      "up_coordinate": [
+        38.3,
+        29
+      ],
+      "type_word": null
+    },
+    {
+      "start_frame": "123",
+      "end_frame": "151",
+      "action_type": "click",
+      "down_coordinate": [
+        39.5,
+        60
+      ],
+      "up_coordinate": [
+        39.5,
+        60
+      ],
+      "type_word": null
+    },
+    {
+      "start_frame": "195",
+      "end_frame": "233",
+      "action_type": "click",
+      "down_coordinate": [
+        58.1,
+        26.5
+      ],
+      "up_coordinate": [
+        58.1,
+        26.5
+      ],
+      "type_word": null
+    },
+    {
+      "start_frame": "249",
+      "end_frame": "262",
+      "action_type": "click",
+      "down_coordinate": [
+        47.1,
+        63
+      ],
+      "up_coordinate": [
+        47.1,
+        63
+      ],
+      "type_word": null
+    }
+  ],
+  "2.mp4": [
+    {
+      "start_frame": "12",
+      "end_frame": "33",
+      "action_type": "click",
+      "down_coordinate": [
+        59.2,
+        91.5
+      ],
+      "up_coordinate": [
+        59.2,
+        91.5
+      ],
+      "type_word": null
+    },
+    {
+      "start_frame": "47",
+      "end_frame": "70",
+      "action_type": "click",
+      "down_coordinate": [
+        39.8,
+        71.2
+      ],
+      "up_coordinate": [
+        39.8,
+        71.2
+      ],
+      "type_word": null
+    },
+    {
+      "start_frame": "70",
+      "end_frame": "196",
+      "action_type": "type",
+      "down_coordinate": null,
+      "up_coordinate": null,
+      "type_word": "紐約"
+    },
+    {
+      "start_frame": "260",
+      "end_frame": "272",
+      "action_type": "click",
+      "down_coordinate": [
+        58.7,
+        7.7
+      ],
+      "up_coordinate": [
+        58.7,
+        7.7
+      ],
+      "type_word": null
+    },
+    {
+      "start_frame": "299",
+      "end_frame": "320",
+      "action_type": "click",
+      "down_coordinate": [
+        6.2,
+        9.3
+      ],
+      "up_coordinate": [
+        6.2,
+        9.3
+      ],
+      "type_word": null
+    }
+  ]
+}
